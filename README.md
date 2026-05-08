@@ -1,4 +1,4 @@
-🌾 PanenHub — Platform Digital untuk Kedaulatan Pangan Indonesia
+## 🌾 PanenHub — Platform Digital untuk Kedaulatan Pangan Indonesia
 
 PanenHub adalah platform marketplace agrikultur yang menghubungkan petani lokal dengan pembeli (konsumen) secara langsung. Proyek ini bertujuan untuk membantu Mitra Tani menjual hasil panen mereka, terutama beras, dengan mudah dan aman.
 
